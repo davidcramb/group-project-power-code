@@ -24,3 +24,71 @@ NAVBAR
     font-family: 'Special Elite', cursive;   
     font-size: 2em;
 }
+
+/**********Products Page Styling**********/
+
+#pics {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics img {
+    max-width: 100%;
+}
+
+#pics2 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics2 img {
+	max-width: 100%;
+}
+
+#pics3 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	height: auto;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics3 img {
+    max-width: 100%;
+}
+
+#pics4 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics4 img {
+    max-width: 100%;
+}
+
+#pics5 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics5 img {
+    max-width: 100%;
+}
