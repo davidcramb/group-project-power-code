@@ -1,0 +1,26 @@
+/********
+NAVBAR
+********/
+
+.navbar {
+    height: 100px;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 10px 10px 0px 0px;
+    text-align: left;
+}
+
+.navbar ul {
+
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+
+.navbar li {
+    display: inline;
+    margin: 20px;
+    font-family: 'Special Elite', cursive;   
+    font-size: 2em;
+}
