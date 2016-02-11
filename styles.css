@@ -4,27 +4,49 @@ NAVBAR
 
 .navbar {
     height: 100px;
+    width: 100%;
+    /*max-width: 100%;*/
     background-color: red;
     border: 1px solid red;
     border-radius: 10px 10px 0px 0px;
     text-align: left;
+    display: inline-flex;
 }
 
 .navbar ul {
 
     list-style-type: none;
-    display: flex;
-    justify-content: flex-start;
-    padding-left: 20px;
+    display: inline;
 }
 
 .navbar li {
-    display: inline;
-    margin: 20px;
+    display: inline-block;
+    margin-top: 1.25em;
+    margin-right: 2em;
     font-family: 'Special Elite', cursive;   
     font-size: 2em;
 }
 
+.navbar li a:link {
+    text-decoration: none;
+    overflow: none;
+    color: #fffff0;
+}
+
+.navbar li a:visited{
+    color: #000000;
+}
+.navbar li a:hover {
+    color: darkblue;
+}
+
+.navbar img {
+    /*display: flex-inline;*/
+    width: 150px;
+    height: 102px;
+    margin-left: 20%;
+    margin-right: auto;
+}
 /**********Products Page Styling**********/
 
 #pics {
