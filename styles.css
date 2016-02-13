@@ -12,6 +12,7 @@ NAVBAR
     border-radius: 10px 10px 0px 0px;
     text-align: left;
     display: inline-flex;
+    margin-bottom: 1em;
 }
 
 .navbar ul {
@@ -143,6 +144,41 @@ footer{
 	text-align: center;
 }
 
-/****************
-Odie's About Page
-*****************/
+/**************
+Employees Page
+**************/
+
+.employee-grid {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 95%;
+    
+  /*  display: inline;
+    display: inline-block;*/
+}
+
+.employee-grid .single {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    background-color: ivory;
+    border: 2px solid #fffff5;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.employee-grid .single img {
+    width: 320px;
+    height: 300px;
+    border-radius: 5em;
+    border: 3px solid #0077CC;
+    box-shadow: 0 0 15px blue;
+}
+
+#david {
+    border: 3px solid darkred;
+    box-shadow: 0 0 15px red;
+}
