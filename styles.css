@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /********
 NAVBAR
 ********/
@@ -47,7 +48,7 @@ NAVBAR
 .navbar img {
     /*display: flex-inline;*/
     width: 150px;
-    height: 102px;
+    height: 100%;
     margin-left: 20%;
     margin-right: auto;
 }
@@ -118,3 +119,31 @@ NAVBAR
 #pics5 img {
     max-width: 100%;
 }
+=======
+/****************
+Odie's About Page
+*****************/
+h1 {
+	text-align: center;
+	background-color: red;
+	font-family: 'PT Serif', serif;
+}
+
+body {
+	background-color: skyblue;
+	font-family: 'Anton', sans-serif;
+
+}
+
+img {
+	background-image: 100%;
+}
+
+footer{
+	text-align: center;
+}
+
+/****************
+Odie's About Page
+*****************/
+>>>>>>> origin/OJ-About
