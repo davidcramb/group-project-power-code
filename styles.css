@@ -1,4 +1,6 @@
-
+ body {
+ 	min-width: 960px;
+ }
 /********
 NAVBAR
 ********/
@@ -69,6 +71,24 @@ NAVBAR
     margin-left: 20%;
     margin-right: auto;
 }
+
+#content1 img {
+	width: 500px;
+	height: auto;
+}
+
+#content1 {
+	float: left;
+	margin-left: 2em;
+	width: 45%;
+}
+
+#content2 {
+	width: 45%;
+	margin-right: 2em;
+	float: right;
+}
+
 /**********Products Page Styling**********/
 
 .productsAlign {
