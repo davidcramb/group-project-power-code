@@ -43,7 +43,7 @@ NAVBAR
 .navbar img {
     /*display: flex-inline;*/
     width: 150px;
-    height: 102px;
+    height: 100%;
     margin-left: 20%;
     margin-right: auto;
 }
