@@ -3,6 +3,22 @@
 NAVBAR
 ********/
 
+.logo {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    
+}
+.logo img {
+    display: inline;
+    margin: 0 auto;
+    width: 50%;
+    max-width: 100%;
+    margin-top: -4%;
+    margin-bottom: -4%;
+}
+
 .navbar {
     height: 100px;
     width: 100%;
@@ -191,6 +207,10 @@ NAVBAR
 
 #pics10 img {
     max-width: 100%;
+}
+
+footer {
+    clear: both;
 }
 
 
