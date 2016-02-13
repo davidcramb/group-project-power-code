@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /********
 NAVBAR
 ********/
@@ -15,13 +15,17 @@ NAVBAR
 }
 
 .navbar ul {
-
+    min-width: 100%;
     list-style-type: none;
-    display: inline;
+    display: inline-block;
+    padding-top: 1.5em;
+
 }
 
 .navbar li {
-    display: inline-block;
+    display: inline;
+    padding-bottom:;
+    min-width: 100%;
     margin-top: 1.25em;
     margin-right: 2em;
     font-family: 'Special Elite', cursive;   
@@ -115,7 +119,7 @@ NAVBAR
 #pics5 img {
     max-width: 100%;
 }
-=======
+
 /****************
 Odie's About Page
 *****************/
@@ -142,4 +146,3 @@ footer{
 /****************
 Odie's About Page
 *****************/
->>>>>>> origin/OJ-About
