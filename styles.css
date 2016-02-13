@@ -55,6 +55,12 @@ NAVBAR
 }
 /**********Products Page Styling**********/
 
+.productsAlign {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 #pics {
 	margin: 10px;
 	float: left;
@@ -121,6 +127,73 @@ NAVBAR
     max-width: 100%;
 }
 
+
+#pics6 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics6 img {
+    max-width: 100%;
+}
+
+#pics7 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics7 img {
+    max-width: 100%;
+}
+
+#pics8 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics8 img {
+    max-width: 100%;
+}
+
+#pics9 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics9 img {
+    max-width: 100%;
+}
+
+#pics10 {
+	margin: 10px;
+	float: left;
+	border: 2px solid black;
+	border-radius: 5px;
+	max-width: 200px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#pics10 img {
+    max-width: 100%;
+}
+
+
 /****************
 Odie's About Page
 *****************/
@@ -144,6 +217,7 @@ footer{
 	text-align: center;
 }
 
+
 /**************
 Employees Page
 **************/
@@ -153,9 +227,7 @@ Employees Page
     padding: 0;
     text-align: center;
     width: 95%;
-    
-  /*  display: inline;
-    display: inline-block;*/
+
 }
 
 .employee-grid .single {
@@ -182,3 +254,5 @@ Employees Page
     border: 3px solid darkred;
     box-shadow: 0 0 15px red;
 }
+
+
